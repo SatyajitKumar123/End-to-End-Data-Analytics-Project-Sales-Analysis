@@ -15,4 +15,4 @@ This project demonstrates an end-to-end data analytics pipeline using Python and
   5. Identifying the sub-category with the highest profit growth in 2023 compared to 2022.
  
   ## Dataset
-- **Source**: [Kaggle Sales Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
+- **Source**: [Kaggle Sales Dataset](orders.csv)
