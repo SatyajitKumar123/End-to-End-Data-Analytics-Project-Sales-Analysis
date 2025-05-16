@@ -16,3 +16,22 @@ This project demonstrates an end-to-end data analytics pipeline using Python and
  
   ## Dataset
 - **Source**: [Kaggle Sales Dataset](orders.csv)
+
+## Tools and Technologies
+- **Python**: Pandas for data cleaning, SQLAlchemy for database integration.
+- **PostgreSQL**: For storing and querying data.
+- **Jupyter Notebook**: For data processing and visualization.
+- **SQL**: For data analysis.
+- **Libraries**: `pandas`, `sqlalchemy`
+
+  ## Steps Performed
+1. **Data Acquisition**: Downloaded the sales dataset from Kaggle.
+2. **Data Cleaning**:
+   - Handled missing values, duplicates, and inconsistent formats using Pandas.
+   - Standardized date formats and categorical variables.
+3. **ETL Pipeline**:
+   - Used Pandas to transform data into a suitable format.
+   - Loaded data into PostgreSQL tables using SQLAlchemy.
+4. **Data Analysis**:
+   - Wrote SQL queries to answer key business questions (see Objectives).
+   - Generated insights on sales trends, regional performance, and profit growth.
