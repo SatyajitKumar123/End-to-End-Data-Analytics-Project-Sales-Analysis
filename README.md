@@ -1,4 +1,4 @@
-# Sales ETL pipeline and Analysis
+# ETL pipeline and Sales Analysis
 End-to-end data analytics: Cleaned Kaggle sales data with Pandas, loaded to PostgreSQL via SQLAlchemy, and analyzed with SQL.
 ## Project Overview
 
